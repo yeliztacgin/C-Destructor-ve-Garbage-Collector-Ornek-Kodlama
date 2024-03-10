@@ -1,0 +1,1 @@
+# C-Destructor-ve-Garbage-Collector-Ornek-Kodlama
